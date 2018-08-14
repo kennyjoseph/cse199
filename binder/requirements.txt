@@ -1,0 +1,14 @@
+jupyter
+requests
+ujson
+rauth
+langid
+nltk
+openpyxl
+regex
+inflect
+arrow
+tweepy
+bs4
+pandas
+seaborn
