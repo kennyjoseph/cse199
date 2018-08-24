@@ -11,6 +11,8 @@ Then, you'll pull down data for a few subreddits and ask:
 The best part is, you can get started playing with this repo right away! Just click the button below to open up
 the notebook on a [Binder notebook](https://mybinder.org/) server - no installation of any kind necessary!  Note - it might take a few seconds to boot up, and ignore the 404 error in the static snapshot while its loading!
 
+Also - if you're unfamiliar with notebooks, take a look at [this short quick start guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)!
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kennyjoseph/cse199/master?filepath=activity.ipynb)
 
 
