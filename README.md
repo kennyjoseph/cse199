@@ -9,7 +9,7 @@ Then, you'll pull down data for a few subreddits and ask:
 - Can we predict the subreddit that a post was made to based only on the text in the title and description of the submission?
 
 The best part is, you can get started playing with this repo right away! Just click the button below to open up
-the notebook on a [mybinder.org](https://mybinder.org/) server - no installation of any kind necessary!
+the notebook on a [Binder notebook](https://mybinder.org/) server - no installation of any kind necessary!  Note - it might take a few seconds to boot up, and ignore the 404 error in the static snapshot while its loading!
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kennyjoseph/cse199/master?filepath=activity.ipynb)
 
